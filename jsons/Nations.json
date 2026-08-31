@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Karmine Corp",
+        "leaderName": "Prime",
+        "adjective": "Karmine",
+        "preferredVictoryType": "Domination",
+        "cities": [
+            "Paris",
+            "Lille",
+            "Lyon",
+            "Marseille",
+            "Roubaix",
+            "Toulouse",
+            "Bordeaux",
+            "Nice",
+            "Nantes",
+            "Rennes"
+        ]
+    }
+]
