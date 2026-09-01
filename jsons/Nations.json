@@ -1,0 +1,74 @@
+[
+	{
+		"name": "Karmine Corp",
+		"leaderName": "Kameto",
+		"adjective": ["KC"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "Willkommen. Du stehst vor der Blue Wall.",
+		"startIntroPart2": "Ich bin Kameto, Anführer von Karmine Corp. Zeig uns, was du kannst.",
+		
+		"declaringWar": "Du hast dich für den falschen Gegner entschieden. Die Blue Wall marschiert.",
+		"attacked": "Du hast gerade einen großen Fehler gemacht.",
+		"defeated": "Das kann nicht sein... Die Blue Wall kann nicht einfach fallen.",
+		"introduction": "Du stehst der Karmine Corp gegenüber. Ein wenig Respekt wäre angebracht.",
+		
+		"neutralHello": "Die Blaue Mauer grüßt dich. Was möchtest du?",
+		"neutralLetsHearIt": [
+			"Ich höre.",
+    		"Was hast du anzubieten?",
+    		"Nur zu, ich bin gespannt."
+		],
+		"neutralNo": [
+			"Nein.",
+    		"Das interessiert uns nicht.",
+    		"Du kannst weiterziehen."
+		],
+		"neutralYes": [
+			"Einverstanden.",
+    		"Abgemacht.",
+    		"Sehr gut."
+		],
+
+		"hateHello": "Du schon wieder? Was willst du?",
+		"hateLetsHearIt": [
+			"Sprich.",
+    		"Ich höre dir zu.",
+    		"Mach es kurz."
+		],
+		"hateNo": [
+			"Auf keinen Fall.",
+    		"Davon kannst du träumen.",
+    		"Nein. Ganz sicher nicht."
+		],
+		"hateYes": [
+			"Na gut.",
+    		"Einverstanden.",
+    		"Wenn du darauf bestehst."
+		],
+		
+		"afterPeace": "Der Frieden ist nur vorübergehend. Beim nächsten Mal kommen wir stärker zurück.",
+		"tradeRequest": "Wir haben einen Vorschlag für dich. Hör ihn dir an.",
+
+		"outerColor": [151, 26, 62],
+		"innerColor": [0,0,0],
+		"uniqueName": "Blue Wall",
+		"uniques": [
+			"Gain [1] [Culture] for every [2] [Population]",
+			"Units fight with [10]% increased strength when fighting on [Land]"
+		],
+		"cities": [
+			"Paris",
+            "Lille",
+            "Lyon",
+            "Marseille",
+            "Roubaix",
+            "Toulouse",
+            "Bordeaux",
+            "Nice",
+            "Nantes",
+            "Rennes"
+		]
+	}
+]
